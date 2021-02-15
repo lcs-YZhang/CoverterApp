@@ -11,12 +11,12 @@
 		FB7701A625DAD6B80047E256 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A525DAD6B80047E256 /* Function.swift */; };
 		FB7701A925DAD6D90047E256 /* Enumeration.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A825DAD6D90047E256 /* Enumeration.swift */; };
 		FB7701AD25DAD71D0047E256 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701AC25DAD71D0047E256 /* Extension.swift */; };
-		FB7701B625DADC410047E256 /* TempretureConverterAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701B525DADC410047E256 /* TempretureConverterAppApp.swift */; };
-		FB7701B825DADC410047E256 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701B725DADC410047E256 /* ContentView.swift */; };
-		FB7701BA25DADC480047E256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7701B925DADC480047E256 /* Assets.xcassets */; };
-		FB7701BD25DADC480047E256 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7701BC25DADC480047E256 /* Preview Assets.xcassets */; };
-		FB7701C525DADC560047E256 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A525DAD6B80047E256 /* Function.swift */; };
-		FB7701C825DADC600047E256 /* Enumeration.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A825DAD6D90047E256 /* Enumeration.swift */; };
+		FB7701D525DAE2F40047E256 /* TemperatureConverterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701D425DAE2F40047E256 /* TemperatureConverterApp.swift */; };
+		FB7701D725DAE2F40047E256 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701D625DAE2F40047E256 /* ContentView.swift */; };
+		FB7701D925DAE2F80047E256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7701D825DAE2F80047E256 /* Assets.xcassets */; };
+		FB7701DC25DAE2F80047E256 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB7701DB25DAE2F80047E256 /* Preview Assets.xcassets */; };
+		FB7701E325DAE3020047E256 /* Enumeration.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A825DAD6D90047E256 /* Enumeration.swift */; };
+		FB7701E425DAE3070047E256 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB7701A525DAD6B80047E256 /* Function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,13 +37,12 @@
 		FB7701A525DAD6B80047E256 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 		FB7701A825DAD6D90047E256 /* Enumeration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enumeration.swift; sourceTree = "<group>"; };
 		FB7701AC25DAD71D0047E256 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
-		FB7701B325DADC410047E256 /* TempretureConverterApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TempretureConverterApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB7701B525DADC410047E256 /* TempretureConverterAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempretureConverterAppApp.swift; sourceTree = "<group>"; };
-		FB7701B725DADC410047E256 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		FB7701B925DADC480047E256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FB7701BC25DADC480047E256 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		FB7701BE25DADC480047E256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FB7701BF25DADC480047E256 /* TempretureConverterApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TempretureConverterApp.entitlements; sourceTree = "<group>"; };
+		FB7701D225DAE2F40047E256 /* TemperatureConverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TemperatureConverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB7701D425DAE2F40047E256 /* TemperatureConverterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemperatureConverterApp.swift; sourceTree = "<group>"; };
+		FB7701D625DAE2F40047E256 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FB7701D825DAE2F80047E256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FB7701DB25DAE2F80047E256 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB7701DD25DAE2F80047E256 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +53,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FB7701B025DADC410047E256 /* Frameworks */ = {
+		FB7701CF25DAE2F40047E256 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,7 +70,7 @@
 				FB7701A525DAD6B80047E256 /* Function.swift */,
 				FB7701AC25DAD71D0047E256 /* Extension.swift */,
 				FB77019C25DAD6950047E256 /* CoverterApp */,
-				FB7701B425DADC410047E256 /* TempretureConverterApp */,
+				FB7701D325DAE2F40047E256 /* TemperatureConverter */,
 				FB77019B25DAD6950047E256 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -80,7 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				FB77019A25DAD6950047E256 /* CoverterApp */,
-				FB7701B325DADC410047E256 /* TempretureConverterApp.app */,
+				FB7701D225DAE2F40047E256 /* TemperatureConverter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,23 +92,22 @@
 			path = CoverterApp;
 			sourceTree = "<group>";
 		};
-		FB7701B425DADC410047E256 /* TempretureConverterApp */ = {
+		FB7701D325DAE2F40047E256 /* TemperatureConverter */ = {
 			isa = PBXGroup;
 			children = (
-				FB7701B525DADC410047E256 /* TempretureConverterAppApp.swift */,
-				FB7701B725DADC410047E256 /* ContentView.swift */,
-				FB7701B925DADC480047E256 /* Assets.xcassets */,
-				FB7701BE25DADC480047E256 /* Info.plist */,
-				FB7701BF25DADC480047E256 /* TempretureConverterApp.entitlements */,
-				FB7701BB25DADC480047E256 /* Preview Content */,
+				FB7701D425DAE2F40047E256 /* TemperatureConverterApp.swift */,
+				FB7701D625DAE2F40047E256 /* ContentView.swift */,
+				FB7701D825DAE2F80047E256 /* Assets.xcassets */,
+				FB7701DD25DAE2F80047E256 /* Info.plist */,
+				FB7701DA25DAE2F80047E256 /* Preview Content */,
 			);
-			path = TempretureConverterApp;
+			path = TemperatureConverter;
 			sourceTree = "<group>";
 		};
-		FB7701BB25DADC480047E256 /* Preview Content */ = {
+		FB7701DA25DAE2F80047E256 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				FB7701BC25DADC480047E256 /* Preview Assets.xcassets */,
+				FB7701DB25DAE2F80047E256 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -134,21 +132,21 @@
 			productReference = FB77019A25DAD6950047E256 /* CoverterApp */;
 			productType = "com.apple.product-type.tool";
 		};
-		FB7701B225DADC410047E256 /* TempretureConverterApp */ = {
+		FB7701D125DAE2F40047E256 /* TemperatureConverter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FB7701C025DADC480047E256 /* Build configuration list for PBXNativeTarget "TempretureConverterApp" */;
+			buildConfigurationList = FB7701DE25DAE2F80047E256 /* Build configuration list for PBXNativeTarget "TemperatureConverter" */;
 			buildPhases = (
-				FB7701AF25DADC410047E256 /* Sources */,
-				FB7701B025DADC410047E256 /* Frameworks */,
-				FB7701B125DADC410047E256 /* Resources */,
+				FB7701CE25DAE2F40047E256 /* Sources */,
+				FB7701CF25DAE2F40047E256 /* Frameworks */,
+				FB7701D025DAE2F40047E256 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = TempretureConverterApp;
-			productName = TempretureConverterApp;
-			productReference = FB7701B325DADC410047E256 /* TempretureConverterApp.app */;
+			name = TemperatureConverter;
+			productName = TemperatureConverter;
+			productReference = FB7701D225DAE2F40047E256 /* TemperatureConverter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -163,7 +161,7 @@
 					FB77019925DAD6950047E256 = {
 						CreatedOnToolsVersion = 12.3;
 					};
-					FB7701B225DADC410047E256 = {
+					FB7701D125DAE2F40047E256 = {
 						CreatedOnToolsVersion = 12.3;
 					};
 				};
@@ -182,18 +180,18 @@
 			projectRoot = "";
 			targets = (
 				FB77019925DAD6950047E256 /* CoverterApp */,
-				FB7701B225DADC410047E256 /* TempretureConverterApp */,
+				FB7701D125DAE2F40047E256 /* TemperatureConverter */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FB7701B125DADC410047E256 /* Resources */ = {
+		FB7701D025DAE2F40047E256 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB7701BD25DADC480047E256 /* Preview Assets.xcassets in Resources */,
-				FB7701BA25DADC480047E256 /* Assets.xcassets in Resources */,
+				FB7701DC25DAE2F80047E256 /* Preview Assets.xcassets in Resources */,
+				FB7701D925DAE2F80047E256 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -211,14 +209,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FB7701AF25DADC410047E256 /* Sources */ = {
+		FB7701CE25DAE2F40047E256 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB7701B825DADC410047E256 /* ContentView.swift in Sources */,
-				FB7701B625DADC410047E256 /* TempretureConverterAppApp.swift in Sources */,
-				FB7701C525DADC560047E256 /* Function.swift in Sources */,
-				FB7701C825DADC600047E256 /* Enumeration.swift in Sources */,
+				FB7701D725DAE2F40047E256 /* ContentView.swift in Sources */,
+				FB7701D525DAE2F40047E256 /* TemperatureConverterApp.swift in Sources */,
+				FB7701E325DAE3020047E256 /* Enumeration.swift in Sources */,
+				FB7701E425DAE3070047E256 /* Function.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -362,51 +360,50 @@
 			};
 			name = Release;
 		};
-		FB7701C125DADC480047E256 /* Debug */ = {
+		FB7701DF25DAE2F80047E256 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = TempretureConverterApp/TempretureConverterApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_ASSET_PATHS = "\"TempretureConverterApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TemperatureConverter/Preview Content\"";
 				DEVELOPMENT_TEAM = MVTMGC7XMB;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = TempretureConverterApp/Info.plist;
+				INFOPLIST_FILE = TemperatureConverter/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.stevenzhang.TempretureConverterApp;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.stevenzhang.TemperatureConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		FB7701C225DADC480047E256 /* Release */ = {
+		FB7701E025DAE2F80047E256 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = TempretureConverterApp/TempretureConverterApp.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_ASSET_PATHS = "\"TempretureConverterApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TemperatureConverter/Preview Content\"";
 				DEVELOPMENT_TEAM = MVTMGC7XMB;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = TempretureConverterApp/Info.plist;
+				INFOPLIST_FILE = TemperatureConverter/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ca.stevenzhang.TempretureConverterApp;
+				PRODUCT_BUNDLE_IDENTIFIER = ca.stevenzhang.TemperatureConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -431,11 +428,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FB7701C025DADC480047E256 /* Build configuration list for PBXNativeTarget "TempretureConverterApp" */ = {
+		FB7701DE25DAE2F80047E256 /* Build configuration list for PBXNativeTarget "TemperatureConverter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FB7701C125DADC480047E256 /* Debug */,
-				FB7701C225DADC480047E256 /* Release */,
+				FB7701DF25DAE2F80047E256 /* Debug */,
+				FB7701E025DAE2F80047E256 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

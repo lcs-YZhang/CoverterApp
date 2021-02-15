@@ -73,7 +73,7 @@ while true {
     let toUnit = convertToEnumerationCase(selection: providedToUnit)
     
     // Get the result
-    let result = convert(providedValue: providedValue, fromUnit: fromUnit, toUnit: toUnit)
+    let result = convert(providedValue: Double(providedValue), fromUnit: fromUnit, toUnit: toUnit)
 
     // MARK: Output
 
